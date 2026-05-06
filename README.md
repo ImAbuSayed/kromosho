@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kromosho/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Kromosho](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Kromosho](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচিন এক মায়াজালে ক্রমশ জড়ালে আমায়
+> কী নেশা ধরালে চোখে, মন শুধু তোমায় চায়
+> শীতল এই হাওয়ার সুরে তোমারই তো ডাক শুনি
+> আধো আলো অন্ধকারে তোমারই প্রহর গুনি
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
